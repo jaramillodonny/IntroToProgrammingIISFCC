@@ -1,3 +1,8 @@
+/*
+DJ
+This code is to be used as a guide
+*/
+
 import java.util.Scanner;
 public class BMIException {
     public double weightUS;
